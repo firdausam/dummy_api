@@ -1,0 +1,50 @@
+{
+  "status": true,
+  "message": "Success Get Data",
+  "data": [
+    {
+      "id": 1,
+      "name": "Nama pekerja 1"
+    },
+    {
+      "id": 2,
+      "name": "Nama pekerja 2"
+    },
+    {
+      "id": 3,
+      "name": "Nama pekerja 3"
+    },
+    {
+      "id": 4,
+      "name": "Nama pekerja 4"
+    },
+    {
+      "id": 5,
+      "name": "Nama pekerja 5"
+    },
+    {
+      "id": 6,
+      "name": "Nama pekerja 6"
+    },
+    {
+      "id": 7,
+      "name": "Nama pekerja 7"
+    },
+    {
+      "id": 8,
+      "name": "Nama pekerja 8"
+    },
+    {
+      "id": 9,
+      "name": "Nama pekerja 9"
+    },
+    {
+      "id": 10,
+      "name": "Nama pekerja 10"
+    },
+    {
+      "id": 11,
+      "name": "Nama pekerja 11"
+    }
+  ]
+}
