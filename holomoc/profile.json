@@ -1,0 +1,12 @@
+{
+    "status": true,
+    "message": "Success Get Data",
+    "data": {
+        "nama": "Ini Dummy Namanya",
+        "status": "P.I.C",
+        "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/05/19/1226904182.jpg",
+        "nama_pt": "PT. Testing Saja",
+        "email": "test@email.com",
+        "no_hp": "089123456789"
+    }
+}
