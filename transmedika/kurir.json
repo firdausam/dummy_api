@@ -1,0 +1,57 @@
+{
+    "status": true,
+    "message": "Success Get Data",
+    "data": [
+        {
+            "id" : 1,
+            "name": "Grab Express",
+            "image": "https://raw.githubusercontent.com/firdausam/dummy_api/master/assets/grab.png",
+            "jenis_layanan": [
+                {
+                    "id": 11,
+                    "name": "GrabExpress Super (1-2 jam)",
+                    "price": 14000
+                },
+                {
+                    "id": 12,
+                    "name": "GrabExpress Standart (3-4 jam)",
+                    "price": 12000
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name": "Gosend",
+            "image": "https://raw.githubusercontent.com/firdausam/dummy_api/master/assets/gosend.png",
+            "jenis_layanan": [
+                {
+                    "id": 21,
+                    "name": "Gosend Super (1-2 jam)",
+                    "price": 14000
+                },
+                {
+                    "id": 22,
+                    "name": "Gosend Standart (3-4 jam)",
+                    "price": 12000
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "name": "JNE Express",
+            "image": "https://raw.githubusercontent.com/firdausam/dummy_api/master/assets/jne.png",
+            "jenis_layanan": [
+                {
+                    "id": 31,
+                    "name": "Jne Express Super (1-2 jam)",
+                    "price": 14000
+                },
+                {
+                    "id": 32,
+                    "name": "Jne Express Standart (3-4 jam)",
+                    "price": 12000
+                }
+            ]
+        }
+    ]
+}
