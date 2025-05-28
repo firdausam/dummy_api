@@ -1,6 +1,14 @@
 {
   "data": [
-    "123456",
-    "654321"
+    {
+      "id": 1,
+      "userName": "Mamenz E",
+      "code": "123456"
+    },
+    {
+      "id": 2,
+      "userName": "Test User",
+      "code": "000000"
+    }
   ]
 }
